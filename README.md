@@ -1,8 +1,16 @@
 # Desafio de Engenharia de Analytics - Análise de Dados para o Banco Vitória (BanVic)
 
-## Introdução
-Este projeto é uma simulação de um desafio de Engenharia de Analytics e Análise de Dados, com o objetivo de demonstrar o valor que a cultura e o uso de dados podem trazer para uma instituição financeira. A análise tem como foco principal a performance de crédito e a otimização de processos, visando impulsionar a tomada de decisões estratégicas.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-00517E?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-46A2D4?style=for-the-badge&logo=seaborn&logoColor=white)
 
+## Introdução
+Este projeto é uma simulação de um desafio de Engenharia de Analytics e Análise de Dados, com o objetivo de demonstrar o valor que a cultura e o uso de dados podem trazer para uma instituição financeira...
 ## Contexto do Desafio
 O Banco Vitória (BanVic) busca amadurecer sua cultura de dados para impulsionar a excelência em seus serviços. O projeto piloto foi proposto para analisar dados de crédito e operações, com o intuito de gerar valor para áreas críticas do banco e convencer stakeholders, como a diretora comercial Camila Diniz, de que o uso de dados é fundamental para a tomada de decisão estratégica.
 
