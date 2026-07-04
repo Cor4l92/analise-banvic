@@ -303,7 +303,7 @@ Este projeto está aberto para:
 **Sandro Luis de Paula Junior**
 🎓 *Especialista em Engenharia de Analytics \& Business Intelligence*
 
-- 📧 **Email**: sandro.sd.luis@gmail.com
+- 📧 **Email**: [EMAIL REDACTED]
 - 💼 **LinkedIn**: [Perfil Profissional](https://linkedin.com/in/seu-perfil)
 - 🐱 **GitHub**: [@Cor4l92](https://github.com/Cor4l92)
 - 📱 **Telefone**: (32) 99106-3549
